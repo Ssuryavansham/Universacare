@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Ssuryavansham/Universacare/static/css/main.9419595d.chunk.css",
-    "main.js": "/Ssuryavansham/Universacare/static/js/main.5c5a5e70.chunk.js",
-    "main.js.map": "/Ssuryavansham/Universacare/static/js/main.5c5a5e70.chunk.js.map",
-    "runtime-main.js": "/Ssuryavansham/Universacare/static/js/runtime-main.e967ed22.js",
-    "runtime-main.js.map": "/Ssuryavansham/Universacare/static/js/runtime-main.e967ed22.js.map",
+    "main.js": "/Ssuryavansham/Universacare/static/js/main.ae6a8aa5.chunk.js",
+    "main.js.map": "/Ssuryavansham/Universacare/static/js/main.ae6a8aa5.chunk.js.map",
+    "runtime-main.js": "/Ssuryavansham/Universacare/static/js/runtime-main.1069fd1f.js",
+    "runtime-main.js.map": "/Ssuryavansham/Universacare/static/js/runtime-main.1069fd1f.js.map",
     "static/css/2.61b4cb56.chunk.css": "/Ssuryavansham/Universacare/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.aceb20aa.chunk.js": "/Ssuryavansham/Universacare/static/js/2.aceb20aa.chunk.js",
-    "static/js/2.aceb20aa.chunk.js.map": "/Ssuryavansham/Universacare/static/js/2.aceb20aa.chunk.js.map",
-    "static/js/3.df029857.chunk.js": "/Ssuryavansham/Universacare/static/js/3.df029857.chunk.js",
-    "static/js/3.df029857.chunk.js.map": "/Ssuryavansham/Universacare/static/js/3.df029857.chunk.js.map",
+    "static/js/2.554456dd.chunk.js": "/Ssuryavansham/Universacare/static/js/2.554456dd.chunk.js",
+    "static/js/2.554456dd.chunk.js.map": "/Ssuryavansham/Universacare/static/js/2.554456dd.chunk.js.map",
+    "static/js/3.1548d585.chunk.js": "/Ssuryavansham/Universacare/static/js/3.1548d585.chunk.js",
+    "static/js/3.1548d585.chunk.js.map": "/Ssuryavansham/Universacare/static/js/3.1548d585.chunk.js.map",
     "index.html": "/Ssuryavansham/Universacare/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/Ssuryavansham/Universacare/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.9419595d.chunk.css.map": "/Ssuryavansham/Universacare/static/css/main.9419595d.chunk.css.map",
-    "static/js/2.aceb20aa.chunk.js.LICENSE.txt": "/Ssuryavansham/Universacare/static/js/2.aceb20aa.chunk.js.LICENSE.txt",
+    "static/js/2.554456dd.chunk.js.LICENSE.txt": "/Ssuryavansham/Universacare/static/js/2.554456dd.chunk.js.LICENSE.txt",
     "static/media/CHAP.409eebf0.png": "/Ssuryavansham/Universacare/static/media/CHAP.409eebf0.png",
     "static/media/Careviger1.3c0f6f1d.svg": "/Ssuryavansham/Universacare/static/media/Careviger1.3c0f6f1d.svg",
     "static/media/Careviger2.744d546b.svg": "/Ssuryavansham/Universacare/static/media/Careviger2.744d546b.svg",
@@ -42,10 +42,10 @@
     "static/media/review.2d7327a4.png": "/Ssuryavansham/Universacare/static/media/review.2d7327a4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e967ed22.js",
+    "static/js/runtime-main.1069fd1f.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.aceb20aa.chunk.js",
+    "static/js/2.554456dd.chunk.js",
     "static/css/main.9419595d.chunk.css",
-    "static/js/main.5c5a5e70.chunk.js"
+    "static/js/main.ae6a8aa5.chunk.js"
   ]
 }
