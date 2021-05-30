@@ -1,25 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
+import Navbar from "./Navbar";
+import Header from "./Header";
+import Maplocater from "./Maplocater";
+import First_body from "./First_body";
+import Second_body from "./Second_body";
+import Third_body from "./Third_body";
+import Forth_body from "./Forth_body";
+import Fifth_body from './Fifth_body';
+import Slider from "./Slider";
+import Album_body from "./Album_body";
+import Poster from "./Poster";
+import Footer from "./Footer";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+
+const App = () => {
+    return (
+      <>
+        <Header />
+        <Navbar/>
+         <First_body  />
+         <Maplocater />
+         <Second_body />
+       
+       
+
+      </>
+    );
+};
+
+
 
 export default App;

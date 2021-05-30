@@ -1,0 +1,30 @@
+#cont{
+    background-color: blanchedalmond;
+   
+    padding:1vw;
+    margin-top: 5vw;
+    text-align: center;
+    
+}
+#cont .col-sm-3 .card-title1{
+    font-weight: 700;
+}
+#head{
+    font-weight: 500;
+    color: black;
+    font-size: 2vw;
+}
+#head spam{
+    color: rgb(255, 89, 59);
+    font-weight: 700;
+}
+#sym{
+    width:83vw;
+}
+
+
+@media(max-width:590px){
+    #im{
+        margin-left: 25vw;
+    }
+}

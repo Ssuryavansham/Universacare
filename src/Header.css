@@ -1,0 +1,17 @@
+.cont{
+    text-align: center;
+    color: blue;
+    font-weight: 1000px;
+    border-bottom:4px solid rgb(226, 226, 226);
+    font-weight: 400;
+    
+    height: auto;
+    padding: 5px;
+}
+.cont p{
+    font-weight: 600;
+}
+
+
+
+

@@ -1,0 +1,43 @@
+#poster1{
+    margin-top: -4vw;
+    height: 20vw;
+    background-color: rgb(76, 76, 247);
+}
+#health img{
+    padding-left: 17vw;
+}
+#text{
+    padding-top: 5vw;
+    padding-left: 10vw;
+}
+.card-body{
+    padding:1vw;
+    color:white;
+}
+#text .btn{
+    background-color: white;
+    color: blue;
+}
+
+@media (max-width:570px) {
+    #poster1{
+        height: 60vw;
+       
+    }
+body{
+    margin:0;
+    padding: 0;
+
+}
+#health img{
+   
+    width: 55vw;
+    height: 30vw;
+    margin-left: 10vw;
+
+}
+.card-body{
+   text-align: center;
+}
+
+}

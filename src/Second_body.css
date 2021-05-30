@@ -1,0 +1,55 @@
+#second{
+    position: static;
+
+left: 0px;
+top: 709px;
+
+background: #FFFFFF;
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 0px;
+}
+
+
+
+.card-body2{
+    padding: 8vw;
+   
+    padding-top: 5vw;
+   
+  
+ 
+  
+}
+
+
+.col-sm-2{
+   
+   
+   
+    box-shadow: 1px 0px 0px #EBEBEB;
+  
+    
+}
+.card-title1{
+    padding-top: 1vw;
+}
+#btn1{
+    float: right;
+    margin-right: 1vw;
+    border-color: transparent;
+    box-shadow: 0px 2px 0px #e0dada;
+    border-radius: 100px;
+}
+
+.row{
+    margin-top: 5vw;
+   
+}
+#an{
+    box-shadow: 0px 0px 0px ;
+}

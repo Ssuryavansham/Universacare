@@ -1,0 +1,16 @@
+.container-fluid3{
+    background-color: rgb(255, 204, 35);
+    text-align: center;
+   
+    padding: 1vw;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 0.12em;
+
+color: #2B2D42;
+}
