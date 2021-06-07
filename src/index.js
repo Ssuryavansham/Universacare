@@ -12,15 +12,7 @@ ReactDOM.render(
   <>
   <BrowserRouter>
     <App />
-    
-
-    
-
-
-
-
-    
-    </BrowserRouter>
+     </BrowserRouter>
     </>,
   
   document.getElementById('root')

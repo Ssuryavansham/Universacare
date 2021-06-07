@@ -28,7 +28,7 @@ const App = () => {
          <Second_body />
          <Forth_body />
          <Fifth_body />
-         <Slider />
+       
        
        
 
