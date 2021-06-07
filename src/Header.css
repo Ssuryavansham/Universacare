@@ -1,15 +1,27 @@
-.cont{
+#cont4{
     text-align: center;
-    color: blue;
-    font-weight: 1000px;
-    border-bottom:4px solid rgb(226, 226, 226);
-    font-weight: 400;
     
-    height: auto;
+    
+  
+    box-shadow: 0px 4px 4px #c48e8e;
+  
+    
+    
     padding: 5px;
+    padding-top: 20px;
+  
+    height: 63px;
+   
+
 }
-.cont p{
-    font-weight: 600;
+#cont4 spam{
+    margin-left: 12px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+color: #0047AB;
 }
 
 

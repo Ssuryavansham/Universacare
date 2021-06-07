@@ -1,5 +1,28 @@
 #poshe{
     padding-top: 3vw;
-    font-weight: 800;
+    
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 29px;
+/* or 161% */
 
+letter-spacing: -0.007em;
+
+color: #2B2D42;
+
+}
+#poshe{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+    
+    letter-spacing: -0.005em;
+    
+    color: #2B2D42;
+    
 }

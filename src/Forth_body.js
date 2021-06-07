@@ -11,7 +11,7 @@ const Forth_body = () => {
       <>
       <div className="container-fluid" id="cont">
         
-        <p id="head">How we <spam >Find Best Careviger</spam> For You</p>
+        <p id="head2">How we <spam >Find Best Careviger</spam> For You</p>
         <div class="container" id="sym">
          <div class="row">
        <div class="col-sm-3" >
@@ -22,7 +22,7 @@ const Forth_body = () => {
 
        </div>
 
-       <div class="col-sm-3" >
+       <div class="col-sm-3" id="col3">
        <img src={carevi2}></img>
        <h5 class="card-title1">2. Customized Care Plan</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -30,7 +30,7 @@ const Forth_body = () => {
 
        </div>
 
-       <div class="col-sm-3" >
+       <div class="col-sm-3" id="col3">
        <img src={carevi3}></img>
        <h5 class="card-title1">3.Caregiver Matching</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -38,7 +38,7 @@ const Forth_body = () => {
 
        </div>
 
-       <div class="col-sm-3" >
+       <div class="col-sm-3"id="col3" >
        <img src={carevi4}></img>
        <h5 class="card-title1">4. Ongoing Support & Supervision</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>

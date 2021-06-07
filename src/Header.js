@@ -4,8 +4,8 @@ import Images from "../src/Images/circle-infor.svg"
 const Header = () => {
     return (
       <>
-     <div className="cont">
-     <img src = {Images}></img> <p>READ ABOUT OUR COVID-19 PRECAUTIONS</p> 
+     <div className="container-fluid" id="cont4">
+     <img src = {Images}></img><spam>READ ABOUT OUR COVID-19 PRECAUTIONS</spam>
      </div>
       </>
     );

@@ -1,5 +1,5 @@
 #cont{
-    background-color: blanchedalmond;
+    background: radial-gradient(80.11% 80.11% at 50% 19.89%, #F3F5F9 0%, rgba(243, 245, 249, 0.5) 100%), #FFFFFF;
    
     padding:1vw;
     margin-top: 5vw;
@@ -7,22 +7,54 @@
     
 }
 #cont .col-sm-3 .card-title1{
-    font-weight: 700;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+letter-spacing: -0.005em;
+
+
+color: #2B2D42;
+
+  
 }
-#head{
+#head2{
     font-weight: 500;
     color: black;
     font-size: 2vw;
+    padding: 1vw;
 }
-#head spam{
-    color: rgb(255, 89, 59);
+#head2 spam{
+    color: #FF8400;
     font-weight: 700;
 }
 #sym{
     width:83vw;
+    margin-top: 0;
+  
+  
 }
 
+#sym .card-text{
+    
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+letter-spacing: -0.005em;
+margin-top: 25px;
 
+color: #2B2D42;
+
+}
+
+#col-3{
+   margin-left: 10px;
+}
 @media(max-width:590px){
     #im{
         margin-left: 25vw;

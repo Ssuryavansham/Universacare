@@ -1,54 +1,5 @@
-.button{
-    color: red;
-  
-}
 #slid{
-    background-color: rgb(255, 238, 228);
-    height: 30vw;
-    
-}
-
-
-
-.carousel-control-prev{
-    font-weight: 600;
-    padding-top: 25vw;
-    padding-left: 13vw;
-    color:blue
-}
-.col-md-4{
-    margin-left: 15vw;
-}
-#slid2{
-    margin-top: 5vw;
-  
-   
-
-    width: 50vw;
+    background: linear-gradient(95.15deg, #FFF1E1 0%, #FFFBF7 87.89%, #FFFFFF 99.36%);
     height: 20vw;
 
-    margin-left: 20vw;
-}
-.visually-visible{
-    font-weight: 600;
-    color:blue;
-    margin-left: 53vw;
-}
-
-.visually-hidden{
- 
-    
-    width: 10vw;
-  
-}
-.carousel-control-next{
-    padding-top: 25vw;
-    padding-right: 65vw;
-
-}
-
-@media(max-width:590px){
-    #carouselExampleIndicators img{
-        width: 25vw;
-    }
 }
